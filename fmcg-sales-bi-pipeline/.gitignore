@@ -1,0 +1,21 @@
+# 严禁将包含真实商业营收、客户明细与内部追踪清单上传至 GitHub
+*.xlsx
+*.xls
+*.csv
+*.pptx
+*.pdf
+data/
+watchlist.json
+last_preview.json
+待处理发货表/
+01_已归档原表/
+02_历史总表备份/
+03_月度分析报告/
+
+# Python 缓存与环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store

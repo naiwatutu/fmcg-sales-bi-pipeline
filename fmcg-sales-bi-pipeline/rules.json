@@ -1,0 +1,14 @@
+{
+  "_comment": "可选外置轻量纠偏规则（缺失或删除本文件时程序仍可正常运行）",
+  "new_product_window_months": 3,
+  "track_aliases": {
+    "蔬菜": "蔬菜类"
+  },
+  "brand_extract_priority": [
+    "天润一生缘"
+  ],
+  "brand_aliases": {
+    "美one": "美ONE"
+  },
+  "subcat_aliases": {}
+}

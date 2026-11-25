@@ -1,0 +1,7 @@
+# 核心数据处理依赖（默认合并与 MD/HTML/XLSX 报告必需）
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# 可选扩展依赖（仅在使用 -f pptx 或 -f all 生成幻灯片报告时需要）
+python-pptx>=0.6.23
+matplotlib>=3.7.0
